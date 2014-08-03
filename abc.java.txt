@@ -1,0 +1,6 @@
+class HelloWorld {
+	public static void main(String[] str) {
+		System.Out.println("Heloo world");
+	}
+
+}
